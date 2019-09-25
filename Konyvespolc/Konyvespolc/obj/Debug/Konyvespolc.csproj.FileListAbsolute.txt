@@ -1,0 +1,9 @@
+D:\Users\nyiro\source\repos\Konyvespolc\Konyvespolc\bin\Debug\Konyvespolc.exe.config
+D:\Users\nyiro\source\repos\Konyvespolc\Konyvespolc\bin\Debug\Konyvespolc.exe
+D:\Users\nyiro\source\repos\Konyvespolc\Konyvespolc\bin\Debug\Konyvespolc.pdb
+D:\Users\nyiro\source\repos\Konyvespolc\Konyvespolc\obj\Debug\Konyvespolc.csprojResolveAssemblyReference.cache
+D:\Users\nyiro\source\repos\Konyvespolc\Konyvespolc\obj\Debug\Konyvespolc.csproj.CoreCompileInputs.cache
+D:\Users\nyiro\source\repos\Konyvespolc\Konyvespolc\obj\Debug\Konyvespolc.exe
+D:\Users\nyiro\source\repos\Konyvespolc\Konyvespolc\obj\Debug\Konyvespolc.pdb
+C:\Users\dex02\Documents\EKE\MagProg Házik\Magasszintű programozási nyelvek II. gy_\Konyvespolc\Konyvespolc\Konyvespolc\obj\Debug\Konyvespolc.exe
+C:\Users\dex02\Documents\EKE\MagProg Házik\Magasszintű programozási nyelvek II. gy_\Konyvespolc\Konyvespolc\Konyvespolc\obj\Debug\Konyvespolc.pdb
